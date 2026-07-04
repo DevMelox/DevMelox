@@ -21,10 +21,6 @@
         <a href="https://x.com/maarcdev" target="_blank">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
         </a>
-        <a href ="marcelohssilva2@proton.me">
-            <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
-        </a>
-    </a>
 </div>
 
 ---
