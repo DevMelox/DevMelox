@@ -15,7 +15,7 @@
 <!-- Socials -->
 <div align="center">
     <a target="_blank" style="text-decoration: none;">
-        <a href="https://www.linkedin.com/in/meloodev/">
+        <a href="https://www.linkedin.com/in/omarcdev/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a>
         <a href="https://x.com/meloodev" target="_blank">
